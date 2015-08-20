@@ -8,3 +8,5 @@ if __name__ == '__main__':
     assert count_words("Bananas, give me bananas!!!", {"banana", "bananas"}) == 2, "BANANAS!"
     assert count_words("Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
                        {"sum", "hamlet", "infinity", "anything"}) == 1, "Weird text"
+
+    print("All set? Click 'Check' to review your code and earn rewards!")
